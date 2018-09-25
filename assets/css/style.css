@@ -1,0 +1,61 @@
+body {
+    background-image: url(../images/backgroundimagetwo.jpg)
+}
+
+.fpContainer {
+    background-color: rgb(216, 110, 136);
+    width: 70%;
+    margin: auto;
+    height: 100%;
+}
+
+#fpHeader {
+    font-size: 120px;
+    padding-top: 200px;
+    padding-bottom: 100px;
+}
+
+#startButton {
+    font-size: 40px;
+    color: rgb(126, 10, 116);
+    border: rgb(126, 10, 116) solid 2px;
+    background-color: rgb(233, 180, 193);
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+    height: 80px;
+    margin-bottom: 80px;
+}
+
+.container {
+    background-color: rgb(216, 110, 136);
+    width: 70%;
+    margin: auto;
+    height: 100%;
+}
+
+header {
+    color: white;
+    text-align: center;
+    font-size: 80px;
+    font-family: 'Spirax', cursive;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#timeRemaining {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Spirax', cursive;
+    padding-bottom: 50px;
+}
+
+.questions {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Spirax', cursive;
+    /* padding-top: 50px;
+    padding-bottom: 50px; */
+}
