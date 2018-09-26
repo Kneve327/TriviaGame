@@ -32,6 +32,7 @@ body {
     width: 70%;
     margin: auto;
     height: 100%;
+    padding-bottom: 40px;
 }
 
 header {
@@ -56,6 +57,17 @@ header {
     text-align: center;
     font-size: 30px;
     font-family: 'Spirax', cursive;
-    /* padding-top: 50px;
-    padding-bottom: 50px; */
+}
+
+#customRadioInline1 {
+    margin-left: 45%;
+}
+
+#customRadioInline2 {
+    margin-left: 45%;
+}
+
+.custom-control-label {
+    color: rgb(126, 10, 116);
+    font-family: 'Spirax', cursive;
 }
