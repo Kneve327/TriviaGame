@@ -9,6 +9,63 @@ body {
     height: 100%;
 }
 
+.tpContainer {
+    background-color: rgb(216, 110, 136);
+    width: 70%;
+    margin: auto;
+    height: 100%;
+}
+
+.fourthpContainer {
+    background-color: rgb(216, 110, 136);
+    width: 70%;
+    margin: auto;
+    height: 100%;
+}
+
+#up {
+    font-size: 40px;
+    color: rgb(126, 10, 116);
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 40px;
+}
+
+#over {
+    font-size: 40px;
+    color: rgb(126, 10, 116);
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 40px;
+}
+
+#wrong {
+    font-size: 40px;
+    color: rgb(126, 10, 116);
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 40px;
+
+}
+
+#right {
+    font-size: 40px;
+    color: rgb(126, 10, 116);
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 40px;
+}
+
+#tpHeader {
+    font-size: 120px;
+    padding-top: 100px;
+    padding-bottom: 50px; 
+}
+
 #fpHeader {
     font-size: 120px;
     padding-top: 200px;
@@ -32,7 +89,7 @@ body {
     width: 70%;
     margin: auto;
     height: 100%;
-    padding-bottom: 40px;
+    padding-bottom: 50px;
 }
 
 header {
@@ -59,15 +116,95 @@ header {
     font-family: 'Spirax', cursive;
 }
 
-#customRadioInline1 {
-    margin-left: 45%;
-}
-
-#customRadioInline2 {
-    margin-left: 45%;
-}
-
 .custom-control-label {
     color: rgb(126, 10, 116);
     font-family: 'Spirax', cursive;
+    font-size: 22px;
+}
+
+#group1 {
+    margin-left: 45%;
+    border: none;
+}
+
+#group2 {
+    margin-left: 45%;
+    border: none;
+}
+
+#group3 {
+    margin-left: 45%;
+    border: none;
+}
+
+#group4 {
+    margin-left: 45%;
+    border: none;
+}
+
+#group5 {
+    margin-left: 45%;
+    border: none;
+}
+
+#group6 {
+    margin-left: 45%;
+    border: none;
+}
+
+#group7 {
+    margin-left: 45%;
+    border: none;
+}
+
+#group8 {
+    margin-left: 45%;
+    border: none;
+}
+
+#group9 {
+    margin-left: 45%;
+    border: none;
+}
+
+#group10 {
+    margin-left: 45%;
+    border: none;
+}
+
+#group11 {
+    margin-left: 45%;
+    border: none;
+}
+
+#group12 {
+    margin-left: 45%;
+    border: none;
+}
+
+#group13 {
+    margin-left: 45%;
+    border: none;
+}
+
+#group14 {
+    margin-left: 45%;
+    border: none;
+}
+
+#group15 {
+    margin-left: 45%;
+    border: none;
+    padding-bottom: 60px;
+}
+
+#done {
+    font-size: 40px;
+    color: rgb(126, 10, 116);
+    border: rgb(126, 10, 116) solid 2px;
+    background-color: rgb(233, 180, 193);
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+    height: 80px; 
 }
